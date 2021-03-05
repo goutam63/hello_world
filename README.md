@@ -1,2 +1,2 @@
-# hello_world
-this is my first repository with name hello world
+# machine learning
+this is my first repository with name machine learning
